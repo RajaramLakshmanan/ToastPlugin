@@ -1,0 +1,14 @@
+{
+  "name": "cordova-plugin-toastplugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-toastplugin",
+    "platforms": []
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "",
+  "license": "ISC"
+}
